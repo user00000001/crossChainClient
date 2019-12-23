@@ -1,0 +1,10 @@
+# ide configure
+.vscode
+.idea
+
+# built binary file
+main
+crossChainClient
+
+# vendor
+vendor
